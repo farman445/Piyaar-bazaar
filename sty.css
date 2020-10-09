@@ -1,0 +1,41 @@
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+
+.carousel-inner img {
+    width: 100%;
+    height: 500px;
+}
+
+.pop{
+    filter: drop-shadow(6px 2px 2px grey);
+    border-radius: 5px;
+}
+.pop{
+    margin-top: -50px;
+}
+
+.pj{
+    font-size: 30px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h3,p{
+    text-align: center;
+}
+
+.emp{
+    margin-left: 0px;
+    margin-right: 125px;
+}
+.empr{
+    margin-left: 125px;
+    margin-right: 0px;
+}
+.agy{
+    margin-left: 0px;
+    margin-right: 125px;
+}

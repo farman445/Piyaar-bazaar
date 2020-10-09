@@ -1,0 +1,22 @@
+.a{
+    
+}
+nav {
+    padding-top:0px;
+    margin-top:0;padding:0px;
+        margin: 10px ;
+}.clear{clear:both !important;
+    line-height:0 ;
+    font-size:0 !important;}
+    .gray{
+        background-color: rgb(65, 70, 70);
+        position: absolute;
+    }
+    .siz h3{
+        color: rgb(245, 128, 18);
+        position: relative;
+    }
+    .siz p{
+        color: aliceblue;
+        position: relative;
+    }

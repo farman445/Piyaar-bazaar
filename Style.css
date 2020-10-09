@@ -1,0 +1,53 @@
+@font-face{
+	font-family:"Myriadpro";
+	src:url(fonts/MyriadPro-Regular.otf) format("truetype");
+}
+
+.a img{
+    padding: 10px;
+}
+.clr a{
+    color: black;
+    padding: 20px;
+    font-size: 18px;
+}
+.clr{
+    margin-top: 40px;
+}
+
+nav{
+	background-color:gray !important;
+    padding:20px 0px !important;
+    color: brown;
+    margin: 10px ;
+
+    }
+  
+ .clone img{
+     position: absolute;
+padding: 0%;
+margin: 0%;
+
+ }
+ .t h1{
+    position:absolute !important;
+	top: 250px;
+    left:70px !important;
+    
+	color:rgb(19, 18, 18) !important;
+	padding-left:0px !important;
+
+ }
+ .t span{
+     color: rgb(219, 14, 14);
+     text-decoration-style: solid;
+ }
+.fom input{
+    top: 120px;
+    padding: 10px;
+padding-right: 240px !important;
+margin-left: 0%;
+position: relative;
+}
+        
+      
